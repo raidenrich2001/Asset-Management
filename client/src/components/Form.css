@@ -1,0 +1,14 @@
+.input-group:not(.has-validation)>:not(:last-child) {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    background-color: rgb(246, 246, 246);
+}
+.input-group-merge .input-group-text {
+    border-right: 0;
+}
+.input-group-text {
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.input-group-text {
+    background-clip: padding-box;
+}

@@ -1,0 +1,18 @@
+.bg-login-image {
+    background: url("./img/user1.svg");
+    background-position: center;
+    background-size: cover;
+}
+.bg-Admin-image
+{
+    background: url("./img/admin.svg");
+    background-position: center;
+    background-size:cover;
+}
+@media (max-width: 768px) {
+    .showtheshit
+    {
+       height:18vh;
+    } 
+}
+
